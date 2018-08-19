@@ -1,2 +1,2 @@
-# first_website
+# First Website
 Myfirst Website on Github
